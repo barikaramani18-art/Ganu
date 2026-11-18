@@ -1,5 +1,2 @@
-# Ganu
-a =10
-b =30
-c = a+b
-print(c)
+# Ambli
+Quick learner, Python learner Java 
